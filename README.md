@@ -1,1 +1,3 @@
-# luminaphone
+# Luminaphone
+
+*Details coming soon*
