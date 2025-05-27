@@ -29,7 +29,7 @@ The Luminaphone, on the other hand, was definitely real. People who heard it des
 
 This is what Matthews’ Luminaphone circuit looked like. Each key turned on an incandescent bulb that was directed at a particular ring in a metal disc, which was spinning at 400 RPMs. Each ring had a pattern of holes made in it. Light that made it through the holes in the disc fell on a selenium cell (an early photoresistor), which altered the amount of current that flowed through it, and the transformer it was in series with. This transformer removed any DC components from the signal, leaving just the light modulated signal on the other side of the transformer. This was fed into some amplifiers before it reached a speaker.
 
-The reason the spinning disc was necessary was due to the technological limitations of the day. Incandescent bulbs do not turn on and off rapidly as a modern LED or laser does, for example, so the holes in the metal provided the fast transitions. This setup also provided the control — it specified when the light should turn off. But in today’s world, there are much better ways to achieve these goals.
+The reason the spinning disc was necessary was due to the technological limitations of the day. Incandescent bulbs do not turn on and off rapidly as a modern LED or laser does, for example, so the holes in the metal provided the fast transitions. This setup also provided the control — it specified *when* the light should turn off. But in today’s world, there are much better ways to achieve these goals.
 
 ![](https://raw.githubusercontent.com/nickbild/luminaphone/refs/heads/main/media/my_luminaphone.png)
 
