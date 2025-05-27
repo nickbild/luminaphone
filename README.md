@@ -1,10 +1,11 @@
 # Luminaphone
 
-*More details coming soon*
-
 The Luminaphone was an odd electronic musical instrument created 100 years ago. Only one prototype was ever built, and no recordings of its music have survived. I have reconstructed this unusual instrument to see what it sounded like.
 
 ![](https://raw.githubusercontent.com/nickbild/luminaphone/refs/heads/main/media/logo.jpg)
+
+**Check out the video on YouTube:**
+<a href="https://www.youtube.com/watch?v=kRWPpAO6C3s">![](https://raw.githubusercontent.com/nickbild/luminaphone/refs/heads/main/media/playing.png)</a>
 
 The Luminaphone has a really interesting history. It was invented by a man named Harry Grindell Matthews. 
 
