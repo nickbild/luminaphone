@@ -18,6 +18,10 @@ All of this created quite the international stir, but he was never able to back 
 
 ![](https://raw.githubusercontent.com/nickbild/luminaphone/refs/heads/main/media/luminaphone_matthews.png)
 
-The Luminaphone, on the other hand, was definitely real. People who heard it described it as sounding something like a little pipe organ. The instrument consisted of a spinning metal disc with rings of holes in it. Each ring could be illuminated by a separate light bulb when a key on a keyboard was pressed. That allowed light through, but only when holes passed by the light. That light fell on a selenium cell, which was an early photoresistor This turned the pulses of light into pulses of electrical current, which were passed through amplifiers before being fed into a speaker.
+The Luminaphone, on the other hand, was definitely real. People who heard it described it as sounding something like a little pipe organ.
+
+## How It Works
 
 ![](https://raw.githubusercontent.com/nickbild/luminaphone/refs/heads/main/media/original_circuit.png)
+
+This is what Matthews’ Luminaphone circuit looked like. Each key turned on an incandescent bulb that was directed at a particular ring in ta metal disc, which was spinning at 400 RPMs. Each ring had a pattern of holes made in it. Light that made it through the holes in the disc fell on a selenium cell (an early photoresistor), which altered the amount of current that flowed through it, and the transformer it was in series with. This transformer removed any DC components from the signal, leaving just the light modulated signal on the other side of the transformer. This was fed into some amplifiers before it reached a speaker.
