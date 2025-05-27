@@ -33,7 +33,7 @@ The reason the spinning disc was necessary was due to the technological limitati
 
 ![](https://raw.githubusercontent.com/nickbild/luminaphone/refs/heads/main/media/my_luminaphone.png)
 
-For this reason, I did things differently, but achieved the same result. I did away with the spinning disk and instead replaced it with a laser that can turn on and off very rapidly. I paired that with this Arduino microcontroller development board (Nano 33 IoT) that gives me precise control over exactly when the laser is turned on or off.
+For this reason, I did things differently, but achieved the same result. I did away with the spinning disk and instead replaced it with a laser that can turn on and off very rapidly. I paired that with an Arduino microcontroller development board (Nano 33 IoT) that gives me precise control over exactly when the laser is turned on or off.
 
 GPIO pins are rapidly switched on and off in a pattern I define when buttons are pressed. That switches a transistor that controls the current flowing through the laser. The laser shines on a photoresistor, which turns the light into an electrical signal that is played through a speaker.
 
