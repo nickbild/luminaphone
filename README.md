@@ -16,7 +16,7 @@ He invented a lot of other things as well, like a wireless remote control system
 
 All of this created quite the international stir, but he was never able to back up those claims with a demonstration, and so he lost the people’s trust. A NYT article from the time about the Luminaphone derisively called him Death Ray Man.
 
-![](https://raw.githubusercontent.com/nickbild/luminaphone/refs/heads/main/media/luminaphone_matthews.png)
+![](https://raw.githubusercontent.com/nickbild/luminaphone/refs/heads/main/media/luminophone_matthews.png)
 
 The Luminaphone, on the other hand, was definitely real. People who heard it described it as sounding something like a little pipe organ. The instrument consisted of a spinning metal disc with rings of holes in it. Each ring could be illuminated by a separate light bulb when a key on a keyboard was pressed. That allowed light through, but only when holes passed by the light. That light fell on a selenium cell, which was an early photoresistor This turned the pulses of light into pulses of electrical current, which were passed through amplifiers before being fed into a speaker.
 
