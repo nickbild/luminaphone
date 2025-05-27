@@ -39,6 +39,7 @@ GPIO pins are rapidly switched on and off in a pattern I define when buttons are
 
 Now for those patterns. Each musical note has a particular frequency. For example, middle C has a frequency of about 261 hertz, and D4 is 293 hertz. I tailored the on-off patterns to match these frequencies.
 
+Here is a schematic of my circuit:
 ![](https://raw.githubusercontent.com/nickbild/luminaphone/refs/heads/main/media/schematic.jpg)
 
 ## Bill of Materials
